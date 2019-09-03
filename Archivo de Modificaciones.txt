@@ -1,0 +1,3 @@
+Este archivo sera utilizado para emular modificaciones en el proyecto colaborativo
+
+Ricardo_Persona_1
